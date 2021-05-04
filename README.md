@@ -4,6 +4,8 @@
 
 I have minimal PHP experience, but think I have this tracked down to the version / commit where this has broken.
 
+Please ping me with resources to get started and I will jump into fixing this issue.
+
 #### The Problem / How To Reproduce
 The shop owner received multiple orders and on a order with multiple products they select 'Create Shipping Label' on the following URLs page by going to the left menu 'Woocommerce' > 'orders' and clicking into a order with multiple products on the right
 
